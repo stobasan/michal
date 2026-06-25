@@ -1,7 +1,6 @@
 export default defineNuxtConfig({
   // https://github.com/nuxt-themes/alpine
-  extends: '@nuxt-themes/alpine',
-  css: ['~/assets/main.css'],
+  extends: '@nuxt-themes/alpine'
 
   modules: [
     // https://github.com/nuxt-modules/plausible
